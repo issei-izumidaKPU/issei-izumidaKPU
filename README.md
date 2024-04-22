@@ -1,7 +1,7 @@
 ### 🧑🏻‍🎓 About Issei
-・Hi👋　I'm issei-izumidaKPU
-・🏫 University Students enrolled in Kaishi Professional University
-・📗 I'm currently learning backend skills
+・Hi👋　I'm issei-izumidaKPU <br>
+・🏫 University Students enrolled in Kaishi Professional University <br>
+・📗 I'm currently learning backend skills <br>
 
 ### Skils I've studied
 <img src="https://skillicons.dev/icons?i=html,css,js,c,python" />
