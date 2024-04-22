@@ -1,5 +1,10 @@
-### Hi there 👋
+### 🧑🏻‍🎓 About Issei
+・Hi👋　I'm issei-izumidaKPU
+・🏫 University Students enrolled in Kaishi Professional University
+・📗 I'm currently learning backend skills
 
+### Skils I've studied
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python" />
 <!--
 **issei-izumidaKPU/issei-izumidaKPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
